@@ -1,0 +1,13 @@
+origin_id	origin_city	destination_id	destination_city	distance_line	distance_road	distance_railway	is_adjacent	same_province	gdp_gap	income_gap	population_gap	industry_structure_similarity	poi_structure_similarity	hsr_direct_flag	hsr_train_count	hsr_min_travel_time	hsr_avg_travel_time	hsr_service_intensity
+1001	Synthetic-1-1	1002	Synthetic-1-2	150	177.0	162.0	1	1	900	0.4	70	0.88	0.87	1	7	0.682	0.833	0.875
+1001	Synthetic-1-1	1003	Synthetic-1-3	220	259.6	237.6	0	0	1800	0.8	140	0.84	0.84	1	6	1.0	1.222	0.75
+1001	Synthetic-1-1	1004	Synthetic-1-4	290	342.2	313.2	0	0	2700	1.2000000000000002	210	0.8	0.81	1	5	1.318	1.611	0.625
+1002	Synthetic-1-2	1001	Synthetic-1-1	150	177.0	162.0	1	1	900	0.4	70	0.88	0.87	1	7	0.682	0.833	0.875
+1002	Synthetic-1-2	1003	Synthetic-1-3	150	177.0	162.0	1	0	900	0.4	70	0.88	0.87	1	7	0.682	0.833	0.875
+1002	Synthetic-1-2	1004	Synthetic-1-4	220	259.6	237.6	0	0	1800	0.8	140	0.84	0.84	1	6	1.0	1.222	0.75
+1003	Synthetic-1-3	1001	Synthetic-1-1	220	259.6	237.6	0	0	1800	0.8	140	0.84	0.84	1	6	1.0	1.222	0.75
+1003	Synthetic-1-3	1002	Synthetic-1-2	150	177.0	162.0	1	0	900	0.4	70	0.88	0.87	1	7	0.682	0.833	0.875
+1003	Synthetic-1-3	1004	Synthetic-1-4	150	177.0	162.0	1	1	900	0.4	70	0.88	0.87	1	7	0.682	0.833	0.875
+1004	Synthetic-1-4	1001	Synthetic-1-1	290	342.2	313.2	0	0	2700	1.2000000000000002	210	0.8	0.81	1	5	1.318	1.611	0.625
+1004	Synthetic-1-4	1002	Synthetic-1-2	220	259.6	237.6	0	0	1800	0.8	140	0.84	0.84	1	6	1.0	1.222	0.75
+1004	Synthetic-1-4	1003	Synthetic-1-3	150	177.0	162.0	1	1	900	0.4	70	0.88	0.87	1	7	0.682	0.833	0.875

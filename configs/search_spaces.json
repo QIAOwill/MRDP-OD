@@ -1,0 +1,16 @@
+{
+  "_schema": {
+    "description": "Each value may be a scalar or a candidate list; candidates are expanded as a Cartesian product.",
+    "dotted_keys": "Parameter names use full configuration paths, such as model.hidden_dim."
+  },
+  "models": {
+    "MRDP-OD": {
+      "parameters": {
+        "model.hidden_dim": [64, 96],
+        "model.prior_hidden_dim": [48, 64],
+        "training.lr": [0.0005, 0.001],
+        "training.batch_size": [8, 16, 32]
+      }
+    }
+  }
+}

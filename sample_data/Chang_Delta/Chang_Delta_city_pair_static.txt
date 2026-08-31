@@ -1,0 +1,13 @@
+origin_id	origin_city	destination_id	destination_city	distance_line	distance_road	distance_railway	is_adjacent	same_province	gdp_gap	income_gap	population_gap	industry_structure_similarity	poi_structure_similarity	hsr_direct_flag	hsr_train_count	hsr_min_travel_time	hsr_avg_travel_time	hsr_service_intensity
+2001	Synthetic-2-1	2002	Synthetic-2-2	160	188.8	172.8	1	1	900	0.4	70	0.88	0.87	1	7	0.727	0.889	0.875
+2001	Synthetic-2-1	2003	Synthetic-2-3	230	271.4	248.4	0	0	1800	0.8	140	0.84	0.84	1	6	1.045	1.278	0.75
+2001	Synthetic-2-1	2004	Synthetic-2-4	300	354.0	324.0	0	0	2700	1.2000000000000002	210	0.8	0.81	1	5	1.364	1.667	0.625
+2002	Synthetic-2-2	2001	Synthetic-2-1	160	188.8	172.8	1	1	900	0.4	70	0.88	0.87	1	7	0.727	0.889	0.875
+2002	Synthetic-2-2	2003	Synthetic-2-3	160	188.8	172.8	1	0	900	0.4	70	0.88	0.87	1	7	0.727	0.889	0.875
+2002	Synthetic-2-2	2004	Synthetic-2-4	230	271.4	248.4	0	0	1800	0.8	140	0.84	0.84	1	6	1.045	1.278	0.75
+2003	Synthetic-2-3	2001	Synthetic-2-1	230	271.4	248.4	0	0	1800	0.8	140	0.84	0.84	1	6	1.045	1.278	0.75
+2003	Synthetic-2-3	2002	Synthetic-2-2	160	188.8	172.8	1	0	900	0.4	70	0.88	0.87	1	7	0.727	0.889	0.875
+2003	Synthetic-2-3	2004	Synthetic-2-4	160	188.8	172.8	1	1	900	0.4	70	0.88	0.87	1	7	0.727	0.889	0.875
+2004	Synthetic-2-4	2001	Synthetic-2-1	300	354.0	324.0	0	0	2700	1.2000000000000002	210	0.8	0.81	1	5	1.364	1.667	0.625
+2004	Synthetic-2-4	2002	Synthetic-2-2	230	271.4	248.4	0	0	1800	0.8	140	0.84	0.84	1	6	1.045	1.278	0.75
+2004	Synthetic-2-4	2003	Synthetic-2-3	160	188.8	172.8	1	1	900	0.4	70	0.88	0.87	1	7	0.727	0.889	0.875
